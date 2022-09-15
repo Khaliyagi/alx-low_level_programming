@@ -1,3 +1,2 @@
 int main(void)
-	int _putchar(char)
-
+int _putchar(char);	
